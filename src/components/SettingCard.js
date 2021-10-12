@@ -9,7 +9,7 @@ export default function AmpSetting (props) {
           <h3 className="title is-12">{setting.name}</h3>
           <label>Posted by </label><div>{setting.postedby}</div>
           <br/>
-          <table class="table is-bordered is-narrow has-text-centered">
+          <table className="table is-bordered is-narrow has-text-centered">
             <thead>
               <tr>
                 <th><abbr title="Volume">Vol</abbr></th>
