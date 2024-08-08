@@ -1,4 +1,18 @@
 const settings = [{
+  name: 'Deep P-90s',
+  slug: 'deep-p90s',
+  postedby: 'Alex',
+  controls: {
+    reverb: 4,
+    master: 2,
+    middle: 2,
+    bass: 8,
+    treble: 7,
+    fat: 'out',
+    volume: 9
+  }
+  },
+  {
     name: 'Texas Blues',
     slug: 'texas-blues',
     postedby: 'Ramon',
