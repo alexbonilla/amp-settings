@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This repository is published through netlify at https://relaxed-kowalevski-4527ac.netlify.app. Feel free to suggest new settings for the Blues Junior Guitar Amp! (Mine is the IV model, Celestion Speaker). 
+
 ## Getting Started
 
 First, run the development server:
