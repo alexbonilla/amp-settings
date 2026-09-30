@@ -492,6 +492,160 @@ const settings = [{
       fat: 'in',
       volume: 12
     }
+  },
+  {
+    name: 'Warm Humbucker Crunch',
+    slug: 'warm-humbucker-crunch',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 6,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 7
+    }
+  },
+  {
+    name: 'Glassy Neck Chime',
+    slug: 'glassy-neck-chime',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 5,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 4
+    }
+  },
+  {
+    name: 'Bluesbreaker Drive',
+    slug: 'bluesbreaker-drive',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 6,
+      bass: 4,
+      treble: 7,
+      fat: 'out',
+      volume: 8
+    }
+  },
+  {
+    name: 'Singing Lead Boost',
+    slug: 'singing-lead-boost',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 5,
+      middle: 7,
+      bass: 5,
+      treble: 6,
+      fat: 'in',
+      volume: 8
+    }
+  },
+  {
+    name: 'Dynamic Touch Overdrive',
+    slug: 'dynamic-touch-overdrive',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 6,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 7
+    }
+  },
+  {
+    name: 'Full Mid Crunch',
+    slug: 'full-mid-crunch',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 6,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 7
+    }
+  },
+  {
+    name: 'Dynamic Edge-of-Breakup',
+    slug: 'dynamic-edge-of-breakup',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 6,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 6
+    }
+  },
+  {
+    name: 'Fat Rhythm Punch',
+    slug: 'fat-rhythm-punch',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 5,
+      middle: 6,
+      bass: 6,
+      treble: 6,
+      fat: 'in',
+      volume: 7
+    }
+  },
+  {
+    name: 'Open Chime Clean',
+    slug: 'open-chime-clean',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 5,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 5
+    }
+  },
+  {
+    name: 'High-Gain Tube Push',
+    slug: 'high-gain-tube-push',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 5,
+      middle: 7,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 8.5
+    }
+  },
+  {
+    name: 'Scooped Clean Headroom',
+    slug: 'scooped-clean-headroom',
+    postedby: 'User',
+    controls: {
+      reverb: 4,
+      master: 6,
+      middle: 4.5,
+      bass: 5,
+      treble: 6,
+      fat: 'out',
+      volume: 3.5
+    }
   }
 ];
 
